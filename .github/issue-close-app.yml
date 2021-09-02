@@ -1,0 +1,23 @@
+# Comment that will be sent if an issue is judged to be closed.
+comment: "This issue is closed because it does not meet our issue template. Please read and fill out the template."
+
+issueConfigs:
+
+- content:
+  # Bug Report
+  - "Bug Report"
+  - "Problem"
+  - "What is expected to happen?"
+  - "What does actually happen?"
+  - "Information"
+  - "Command or Code"
+  - "Environment, Platform, Device"
+  - "`cordova info` information"
+  - "Checklist"
+  - "I searched for existing GitHub issues"
+  - "I updated all Cordova tooling to most recent version"
+  - "I included all the necessary information above"
+
+caseInsensitive: true
+
+label: "closed-by-bot"
