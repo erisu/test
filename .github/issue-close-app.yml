@@ -1,10 +1,5 @@
 # Comment that will be sent if an issue is judged to be closed.
-comment: >
-  This issue was automatically closed because it does not meet our issue template.
-
-  Please read the template and fill it out again.
-
-  You may replace the commented-out "PLACEMENT-HOLDER:" with your content, but do not remove anything else from the template.
+comment: "This issue was automatically closed because it does not meet our issue template.\n\nPlease read the template and fill it out again.\n\nYou may replace the commented-out "PLACEMENT-HOLDER:" with your content, but do not remove anything else from the template."
 
 issueConfigs:
 
