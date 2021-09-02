@@ -10,27 +10,27 @@ about: If something isn't working as expected.
 
 ### What is expected to happen?
 
-<!-- Write here what is expected to hapen -->
+<!-- PLACEMENT-HOLDER: write here what is expected to hapen -->
 
 ### What does actually happen?
 
-<!-- Write here what is actually happening -->
+<!-- PLACEMENT-HOLDER: write here what is actually happening -->
 
 ## Information
 
-<!-- Write here all relevant information that will help us understand and reproduce the problem -->
+<!-- PLACEMENT-HOLDER: write all the relevant information that will help us understand and reproduce the problem -->
 
 ### Command or Code
 
-<!-- Write here what command or code you are using to reproduce the problem? -->
+<!-- PLACEMENT-HOLDER: write the command(s) or code(s) you are using that will reproduce the problem -->
 
 ### Environment, Platform, Device
 
-<!-- Write here the environment, device, and device platform information are you experiencing this issue on? -->
+<!-- PLACEMENT-HOLDER: write the development environment, test device(s), and device platform which is experiencing the issue -->
 
 ### `cordova info` information
 
-<!-- Write here the output of `cordova info` -->
+<!-- PLACEMENT-HOLDER: write the `cordova info` output of the project -->
 
 ## Checklist
 <!-- Please check the boxes by putting an x in the middle of [ ], with no spaces, Example: [x] -->
